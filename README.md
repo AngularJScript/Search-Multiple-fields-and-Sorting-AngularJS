@@ -2,7 +2,7 @@
 Custom multiple search and sorting
 
 **Screenshot**
-![Search Filter Preview Screenshot](https://raw.githubusercontent.com/chinmay235/AngularJS-SearchMultiple-Sort-column-Filter-Example/dc30e55204a94a854e85b3f31e8439d8f67a3747/screenshot.jpg "Optional Title")
+![Search Filter Preview Screenshot](https://raw.githubusercontent.com/AngularJScript/Search-Multiple-fields-and-Sorting-AngularJS/master/screenshot.jpg "AngularJS Filter Screenshot")
 
 
 ##[DEMO](https://angularjscript.github.io/Search-Multiple-fields-and-Sorting-AngularJS/)##
