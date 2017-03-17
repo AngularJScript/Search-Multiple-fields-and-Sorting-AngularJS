@@ -5,4 +5,4 @@ Custom multiple search and sorting
 ![Search Filter Preview Screenshot](https://raw.githubusercontent.com/AngularJScript/Search-Multiple-fields-and-Sorting-AngularJS/master/screenshot.jpg "AngularJS Filter Screenshot")
 
 
-##[DEMO](https://angularjscript.github.io/Search-Multiple-fields-and-Sorting-AngularJS/)##
+## [DEMO](https://angularjscript.github.io/Search-Multiple-fields-and-Sorting-AngularJS/) ##
